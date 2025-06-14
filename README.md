@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Explorer of ideas | Builder of solutions 🛠</h1>
 
 ###
 
@@ -36,10 +36,10 @@
 ###
 
 <p align="left">
-  I'm Rohaan, a passionate Full-Stack Developer from Pakistan 🇵🇰<br><br>
+  I'm Rohaan, a passionate Full-Stack Developer<br><br>
   - 🔭 I’m currently working on React and MERN-based freelance projects<br>
   - 📚 I'm currently learning AI and GenAI with Python & LLMs<br>
-  - ⚡ In my free time, I write poetry, explore indie games, and dream up startups
+  - ⚡ In my free time, explore indie games, explore tech news and dream up startups
 </p>
 
 ###
