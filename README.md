@@ -13,8 +13,10 @@
   </a>
   <a href="mailto:roaan.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord: sigmoidv8&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord username" />
+ <a href="#" title="Discord: sigmoidv8" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-sigmoidv8-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="25" alt="Discord Badge"/>
+</a>
+
 </div>
 
 ###
